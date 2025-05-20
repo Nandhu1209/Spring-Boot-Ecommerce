@@ -28,13 +28,3 @@ A full-stack e-commerce platform built with **Spring Boot (Java)** on the backen
 * Best practices for auto-generating primary keys in relational databases.
 * Strengthened frontend-backend synchronization techniques.
 * Improved user experience with real-time cart updates.
-
-### 🔜 What's Next
-
-* Implementing advanced cart features (e.g., quantity updates, total calculation).
-* Adding robust search and filter capabilities to enhance product discovery.
-* Deploying the application for live testing and feedback.
-
----
-
-Let me know if you want to generate a full `README.md` file or include screenshots, setup instructions, or API details.
